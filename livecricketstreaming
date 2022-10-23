@@ -37,7 +37,7 @@
     }
   ],
   "ads": {
-    "ad_status": "1",
+    "ad_status": "2",
     "ad_type": "admob",
     "interstitial_ad_interval": 1,
     "admob_publisher_id": "pub-3940256099942544",
