@@ -1,7 +1,7 @@
 {
   "ads": {
     "ad_type": "fan",
-    "ad_status": "2",
+    "ad_status": "1",
     "admob_app_id": "ca-app-pub-3940256099942544~3347511713",
     "youtube_api_key": "",
     "onesignal_app_id": "ce397a56-303d-4c80-9d22-84bd19945435",
