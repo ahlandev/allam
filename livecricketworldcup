@@ -1,6 +1,6 @@
 {
   "ads": {
-    "ad_type": "facebook",
+    "ad_type": "fan",
     "ad_status": "1",
     "admob_app_id": "ca-app-pub-3940256099942544~3347511713",
     "youtube_api_key": "",
