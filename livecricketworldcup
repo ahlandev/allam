@@ -1,6 +1,6 @@
 {
   "ads": {
-    "ad_type": "fan",
+    "ad_type": "ironsource",
     "ad_status": "1",
     "admob_app_id": "ca-app-pub-3940256099942544~3347511713",
     "youtube_api_key": "",
@@ -18,6 +18,9 @@
     "admob_interstitial_unit_id": "ca-app-pub-3940256099942544/1033173712",
     "ad_manager_app_open_ad_unit_id": "/6499/example/app-open",
     "ad_manager_interstitial_unit_id": "/6499/example/interstitial"
+     "ironsource_app_key": "171cf7e0d",
+    "ironsource_banner_id": "DefaultBanner",
+    "ironsource_interstitial_id": "DefaultInterstitial",
   },
   "channels": [
     {
