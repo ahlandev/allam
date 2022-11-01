@@ -34,7 +34,7 @@
       "channel_name": "Channel 1",
       "channel_type": "2",
       "category_name": "Live Cricket TV Channels",
-      "channel_image": "",
+      "channel_image": "https://raw.githubusercontent.com/ahlandev/allam/main/6245101.png",
       "channel_description": ""
     },
     {
@@ -48,7 +48,7 @@
       "channel_name": "Channel 2",
       "channel_type": "2",
       "category_name": "Live Cricket TV Channels",
-      "channel_image": "",
+      "channel_image": "https://raw.githubusercontent.com/ahlandev/allam/main/6245101.png",
       "channel_description": ""
     }
   ],
