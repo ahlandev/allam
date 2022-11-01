@@ -2,6 +2,7 @@
   "ads": {
     "ad_type": "ironsource",
     "ad_status": "1",
+    "backup_ads":"None",
     "admob_app_id": "ca-app-pub-3940256099942544~3347511713",
     "youtube_api_key": "",
     "onesignal_app_id": "ce397a56-303d-4c80-9d22-84bd19945435",
