@@ -88,7 +88,7 @@
   ],
   "ads": {
     "ad_status": "1",
-    "ad_type": "admob",
+    "ad_type": "ironsource",
     "backup_ads": "none",
     "interstitial_ad_interval": 1,
     "admob_publisher_id": "pub-3940256099942544",
