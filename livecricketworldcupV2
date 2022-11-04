@@ -26,8 +26,8 @@
       "channel_id": "1",
       "channel_name": "Channel 1",
       "channel_image": "",
-      "channel_url": "https://stream.crichd.vip/update/skys2.php",
-      "channel_description": "<a href='https://bing.com'>bing</a>",
+      "channel_url": "https://www.youtube.com/embed/2ZuPrcI1jXs",
+      "channel_description": "",
       "channel_type": "2",
       "category_name": "Category 1"
     },
@@ -35,7 +35,7 @@
       "channel_id": "2",
       "channel_name": "Channel 2",
       "channel_image": "",
-      "channel_url": "https://stream.crichd.vip/update/sscricket.php",
+      "channel_url": "https://www.youtube.com/embed/WG3Uda2Zv_4",
       "channel_description": "",
       "channel_type": "2",
       "category_name": "Category 1"
@@ -44,7 +44,7 @@
       "channel_id": "3",
       "channel_name": "Channel 3",
       "channel_image": "",
-      "channel_url": "https://stream.crichd.vip/update/sscricket.php",
+      "channel_url": "https://www.youtube.com/embed/uGKW1C-CjvU",
       "channel_description": "",
       "channel_type": "2",
       "category_name": "Category 3"
@@ -53,7 +53,7 @@
       "channel_id": "4",
       "channel_name": "Channel 4",
       "channel_image": "",
-      "channel_url": "https://stream.crichd.vip/update/sscricket.php",
+      "channel_url": "https://www.youtube.com/embed/uhP-9C7s3SE",
       "channel_description": "",
       "channel_type": "2",
       "category_name": "Category 3"
@@ -62,7 +62,7 @@
       "channel_id": "5",
       "channel_name": "Channel 5",
       "channel_image": "",
-      "channel_url": "https://stream.crichd.vip/update/sscricket.php",
+      "channel_url": "https://www.youtube.com/embed/tSUrIG2SM98",
       "channel_description": "",
       "channel_type": "2",
       "category_name": "Category 4"
@@ -71,7 +71,7 @@
       "channel_id": "6",
       "channel_name": "Channel 6",
       "channel_image": "",
-      "channel_url": "https://stream.crichd.vip/update/sscricket.php",
+      "channel_url": "https://www.youtube.com/embed/3f2MjknN_3w",
       "channel_description": "",
       "channel_type": "2",
       "category_name": "Category 4"
@@ -80,14 +80,14 @@
       "channel_id": "7",
       "channel_name": "Channel 7",
       "channel_image": "",
-      "channel_url": "https://stream.crichd.vip/update/sscricket.php",
+      "channel_url": "https://www.youtube.com/embed/PSn_AuCciTw",
       "channel_description": "",
       "channel_type": "2",
       "category_name": "Category 2"
     }
   ],
   "ads": {
-    "ad_status": "1",
+    "ad_status": "2",
     "ad_type": "ironsource",
     "backup_ads": "none",
     "interstitial_ad_interval": 1,
