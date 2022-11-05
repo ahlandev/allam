@@ -1,6 +1,6 @@
 {
   "ads": {
-    "ad_type": "fan",
+    "ad_type": "admob",
     "ad_status": "1",
     "backup_ads":"None",
     "admob_app_id": "ca-app-pub-5076631640132347~5771750245",
