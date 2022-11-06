@@ -55,7 +55,7 @@
       "channel_name": "Channel 1",
       "channel_type": "2",
       "category_name": "Category 1",
-      "channel_image": "",
+      "channel_image": "https://raw.githubusercontent.com/ahlandev/allam/main/4668380.png",
       "channel_description": ""
     },
     {
@@ -64,52 +64,7 @@
       "channel_name": "Channel 2",
       "channel_type": "2",
       "category_name": "Category 1",
-      "channel_image": "",
-      "channel_description": ""
-    },
-    {
-      "channel_id": "3",
-      "channel_url": "https://stream.crichd.vip/update/sscricket.php",
-      "channel_name": "Channel 3",
-      "channel_type": "2",
-      "category_name": "Category 3",
-      "channel_image": "",
-      "channel_description": ""
-    },
-    {
-      "channel_id": "4",
-      "channel_url": "https://stream.crichd.vip/update/sscricket.php",
-      "channel_name": "Channel 4",
-      "channel_type": "2",
-      "category_name": "Category 3",
-      "channel_image": "",
-      "channel_description": ""
-    },
-    {
-      "channel_id": "5",
-      "channel_url": "https://stream.crichd.vip/update/sscricket.php",
-      "channel_name": "Channel 5",
-      "channel_type": "2",
-      "category_name": "Category 4",
-      "channel_image": "",
-      "channel_description": ""
-    },
-    {
-      "channel_id": "6",
-      "channel_url": "https://stream.crichd.vip/update/sscricket.php",
-      "channel_name": "Channel 6",
-      "channel_type": "2",
-      "category_name": "Category 4",
-      "channel_image": "",
-      "channel_description": ""
-    },
-    {
-      "channel_id": "7",
-      "channel_url": "https://stream.crichd.vip/update/sscricket.php",
-      "channel_name": "Channel 7",
-      "channel_type": "2",
-      "category_name": "Category 2",
-      "channel_image": "",
+      "channel_image": "https://raw.githubusercontent.com/ahlandev/allam/main/4668380.png",
       "channel_description": ""
     }
   ]
