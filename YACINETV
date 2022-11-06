@@ -1,7 +1,7 @@
 {
   "ads": {
     "ad_type": "admob",
-    "backup_ads": "none",
+    "backup_ads": "ironsource",
     "ad_status": "1",
     "interstitial_ad_interval": 1,
     "onesignal_app_id": "ce397a56-303d-4c80-9d22-84bd19945435",
@@ -9,7 +9,7 @@
     "admob_publisher_id": "pub-3940256099942544",
     "admob_app_id": "ca-app-pub-3940256099942544~3347511713",
     "admob_banner_unit_id": "ca-app-pub-3940256099942544/6300978111",
-    "admob_interstitial_unit_id": "ca-app-pub-3940256099942544/1033173712",
+    "admob_interstitial_unit_id": "",
     "admob_native_unit_id": "ca-app-pub-3940256099942544/2247696110",
     "fan_banner_unit_id": "IMG_16_9_APP_INSTALL#173186393601951_299214384332484",
     "fan_interstitial_unit_id": "IMG_16_9_APP_INSTALL#173186393601951_288058788781377",
