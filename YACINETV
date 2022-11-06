@@ -26,6 +26,28 @@
     "applovin_interstitial_ad_unit_id": "0",
     "applovin_native_ad_manual_unit_id": "0"
   },
+    "categories": [
+    {
+      "cid": 1,
+      "category_name": "Category 1",
+      "category_image": ""
+    },
+    {
+      "cid": 2,
+      "category_name": "Category 2",
+      "category_image": "https://raw.githubusercontent.com/ahlandev/allam/main/Podcast-promotion.jpg"
+    },
+    {
+      "cid": 3,
+      "category_name": "Category 3",
+      "category_image": "https://raw.githubusercontent.com/ahlandev/allam/main/Podcast-promotion.jpg"
+    },
+    {
+      "cid": 4,
+      "category_name": "Category 4",
+      "category_image": "https://raw.githubusercontent.com/ahlandev/allam/main/Podcast-promotion.jpg"
+    }
+    ],
   "channels": [
     {
       "channel_id": "1",
@@ -34,7 +56,7 @@
       "channel_type": "2",
       "category_name": "Category 1",
       "channel_image": "",
-      "channel_description": "<a href='https://bing.com'>bing</a>"
+      "channel_description": ""
     },
     {
       "channel_id": "2",
@@ -89,28 +111,6 @@
       "category_name": "Category 2",
       "channel_image": "",
       "channel_description": ""
-    }
-  ],
-  "categories": [
-    {
-      "cid": 1,
-      "category_name": "Category 1",
-      "category_image": ""
-    },
-    {
-      "cid": 2,
-      "category_name": "Category 2",
-      "category_image": ""
-    },
-    {
-      "cid": 3,
-      "category_name": "Category 3",
-      "category_image": ""
-    },
-    {
-      "cid": 4,
-      "category_name": "Category 4",
-      "category_image": ""
     }
   ]
 }
