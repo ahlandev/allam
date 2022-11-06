@@ -88,7 +88,7 @@
   ],
   "ads": {
     "ad_status": "1",
-    "ad_type": "applovin",
+    "ad_type": "ironsource",
     "backup_ads": "none",
     "interstitial_ad_interval": 1,
     "admob_publisher_id": "pub-3940256099942544",
@@ -108,7 +108,7 @@
     "applovin_native_ad_manual_unit_id": "95e398d1748bd0d1",
     "applovin_banner_zone_id": "0",
     "applovin_interstitial_zone_id": "0",
-    "ironsource_app_key": "85460dcd",
+    "ironsource_app_key": "171cf7e0d",
     "ironsource_banner_id": "DefaultBanner",
     "ironsource_interstitial_id": "DefaultInterstitial",
     "onesignal_app_id": "ce397a56-303d-4c80-9d22-84bd19945435"
