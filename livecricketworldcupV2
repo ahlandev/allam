@@ -88,7 +88,7 @@ As many as four T20 World Cup matches were affected owing to rain in Melbourne. 
   ],
   "ads": {
     "ad_status": "1",
-    "ad_type": "admob",
+    "ad_type": "applovin",
     "backup_ads": "none",
     "interstitial_ad_interval": 2,
     "admob_publisher_id": "pub-5076631640132347",
