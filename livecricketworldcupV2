@@ -4,6 +4,21 @@
       "cid": 1,
       "category_name": "Category 1",
       "category_image": "https://img.youtube.com/vi/Aay4ZA4Ok3Y/mqdefault.jpg"
+    },
+    {
+      "cid": 2,
+      "category_name": "Category 2",
+      "category_image": "https://raw.githubusercontent.com/ahlandev/allam/main/Podcast-promotion.jpg"
+    },
+        {
+      "cid": 3,
+      "category_name": "Category 3",
+      "category_image": "https://raw.githubusercontent.com/ahlandev/allam/main/Podcast-promotion.jpg"
+    },
+        {
+      "cid": 4,
+      "category_name": "Category 4",
+      "category_image": "https://raw.githubusercontent.com/ahlandev/allam/main/Podcast-promotion.jpg"
     }
   ],
   "channels": [
