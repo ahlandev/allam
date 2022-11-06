@@ -28,10 +28,15 @@ What to expect: The MCG has hosted only one other game in this tournament follow
     },
     {
       "channel_id": "2",
-      "channel_name": "Channel 2",
+      "channel_name": "India Vs Zimbabwe Live",
       "channel_image": "https://raw.githubusercontent.com/ahlandev/allam/main/6245101.png",
-      "channel_url": "https://www.youtube.com/embed/WG3Uda2Zv_4",
-      "channel_description": "",
+      "channel_url": "https://www.youtube.com/watch?v=gQYp1V9l_vM",
+      "channel_description": "ndia will take on Zimbabwe with the aim of securing their T20 World Cup semi-final spot at the Melbourne Cricket Ground (MCG) on Sunday, November 6.
+
+India currently lead the Group 2 table with six points from four matches, whereas Zimbabwe sit in fifth position with three points from four matches.
+
+As many as four T20 World Cup matches were affected owing to rain in Melbourne. However, the weather forecast for the India v Zimbabwe match on Sunday looks promising. The conditions are likely to remain partly cloudy in the beginning and the sky will get clear as the match progresses.
+",
       "channel_type": "2",
       "category_name": "Category 1"
     },
