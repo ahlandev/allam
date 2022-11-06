@@ -4,21 +4,6 @@
       "cid": 1,
       "category_name": "Category 1",
       "category_image": ""
-    },
-    {
-      "cid": 2,
-      "category_name": "Category 2",
-      "category_image": ""
-    },
-    {
-      "cid": 3,
-      "category_name": "Category 3",
-      "category_image": ""
-    },
-    {
-      "cid": 4,
-      "category_name": "Category 4",
-      "category_image": ""
     }
   ],
   "channels": [
