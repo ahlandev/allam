@@ -1,8 +1,8 @@
 {
   "ads": {
-    "ad_type": "ironsource",
-    "backup_ads": "admob",
-    "ad_status": "1",
+    "ad_type": "admob",
+    "backup_ads": "none",
+    "ad_status": "2",
     "interstitial_ad_interval": 1,
     "onesignal_app_id": "ce397a56-303d-4c80-9d22-84bd19945435",
     "startapp_app_id": "0",
@@ -51,7 +51,7 @@
   "channels": [
     {
       "channel_id": "1",
-      "channel_url": "https://stream.crichd.vip/update/skys2.php",
+      "channel_url": "",
       "channel_name": "Channel 1",
       "channel_type": "2",
       "category_name": "Category 1",
@@ -60,7 +60,7 @@
     },
     {
       "channel_id": "2",
-      "channel_url": "https://stream.crichd.vip/update/sscricket.php",
+      "channel_url": "",
       "channel_name": "Channel 2",
       "channel_type": "2",
       "category_name": "Category 1",
