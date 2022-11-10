@@ -8,7 +8,7 @@
     {
       "cid": 2,
       "category_name": "Category 2",
-      "category_image": "https://raw.githubusercontent.com/ahlandev/allam/main/Podcast-promotion.jpg"
+      "category_image": "https://img.youtube.com/vi/D9I8Oc6dduA/maxresdefault.jpg"
     },
         {
       "cid": 3,
@@ -59,19 +59,19 @@ As many as four T20 World Cup matches were affected owing to rain in Melbourne. 
       "channel_id": "3",
       "channel_name": "Channel 3",
       "channel_image": "https://raw.githubusercontent.com/ahlandev/allam/main/6245101.png",
-      "channel_url": "https://www.youtube.com/embed/uGKW1C-CjvU",
-      "channel_description": "",
+      "channel_url": "https://www.youtube.com/embed/D9I8Oc6dduA",
+      "channel_description": "Post Match T20 World Cup 2022 Semi-Final: India vs England | England won against India by 10 Wickets",
       "channel_type": "2",
-      "category_name": "Category 3"
+      "category_name": "Category 2"
     },
     {
       "channel_id": "4",
       "channel_name": "Channel 4",
       "channel_image": "https://raw.githubusercontent.com/ahlandev/allam/main/6245101.png",
-      "channel_url": "https://www.youtube.com/embed/uhP-9C7s3SE",
-      "channel_description": "",
+      "channel_url": "https://www.youtube.com/embed/QX2R6NKzPvk",
+      "channel_description": "Semi Final | England Vs India Highlights | ICC T20 World Cup 2022 | ENG VS IND#semifinal",
       "channel_type": "2",
-      "category_name": "Category 3"
+      "category_name": "Category 2"
     },
     {
       "channel_id": "5",
@@ -98,7 +98,7 @@ As many as four T20 World Cup matches were affected owing to rain in Melbourne. 
       "channel_url": "https://www.youtube.com/embed/PSn_AuCciTw",
       "channel_description": "",
       "channel_type": "2",
-      "category_name": "Category 2"
+      "category_name": "Category 5"
     }
   ],
   "ads": {
