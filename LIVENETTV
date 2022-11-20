@@ -30,19 +30,53 @@
     {
       "cid": 1,
       "category_name": "Football",
-      "category_image": "https://raw.githubusercontent.com/ahlandev/allam/main/TimelineCovers.pro_soccer-goal8-facebook-cover.jpg"
+      "category_image": "https://cdn-icons-png.flaticon.com/512/77/77305.png"
     },
         {
-      "cid": 1,
-      "category_name": "Live Cricket",
+      "cid": 2,
+      "category_name": "Cricket",
+      "category_image": ""
+    },
+      {
+      "cid": 3,
+      "category_name": "american football",
+      "category_image": ""
+    },
+     {
+      "cid": 4,
+      "category_name": "Tennis",
+      "category_image": ""
+    },
+          {
+      "cid": 5,
+      "category_name": "Motor Sports",
+      "category_image": ""
+    },
+            {
+      "cid": 6,
+      "category_name": "Rugby",
+      "category_image": ""
+    },
+            {
+      "cid": 7,
+      "category_name": "Basketball",
+      "category_image": ""
+    },
+     {
+      "cid": 8,
+      "category_name": "Boxing",
       "category_image": ""
     },
         {
-      "cid": 1,
-      "category_name": "Cricket Schedule",
+      "cid": 9,
+      "category_name": "UFC ",
+      "category_image": ""
+    },
+        {
+      "cid": 10,
+      "category_name": "WWE Schedule",
       "category_image": ""
     }
-  
     ],
   "channels": [
     {
