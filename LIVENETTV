@@ -30,52 +30,52 @@
     {
       "cid": 1,
       "category_name": "Football",
-      "category_image": "https://cdn-icons-png.flaticon.com/512/77/77305.png"
+      "category_image": "https://raw.githubusercontent.com/ahlandev/allam/main/Football.jpg"
     },
         {
       "cid": 2,
       "category_name": "Cricket",
-      "category_image": ""
+      "category_image": "https://raw.githubusercontent.com/ahlandev/allam/main/Cricket.jpg"
     },
       {
       "cid": 3,
-      "category_name": "american football",
-      "category_image": ""
+      "category_name": "American Football",
+      "category_image": "https://raw.githubusercontent.com/ahlandev/allam/main/american-football-stadium-american-football-stadium-sport-142156207.jpg"
     },
      {
       "cid": 4,
       "category_name": "Tennis",
-      "category_image": ""
+      "category_image": "https://raw.githubusercontent.com/ahlandev/allam/main/Tennis.jpg"
     },
           {
       "cid": 5,
       "category_name": "Motor Sports",
-      "category_image": ""
+      "category_image": "https://raw.githubusercontent.com/ahlandev/allam/main/Motor%20Sports.jpg"
     },
             {
       "cid": 6,
       "category_name": "Rugby",
-      "category_image": ""
+      "category_image": "https://raw.githubusercontent.com/ahlandev/allam/main/Rugby.jpeg"
     },
             {
       "cid": 7,
       "category_name": "Basketball",
-      "category_image": ""
+      "category_image": "https://raw.githubusercontent.com/ahlandev/allam/main/Basketball.jpg"
     },
      {
       "cid": 8,
       "category_name": "Boxing",
-      "category_image": ""
+      "category_image": "https://raw.githubusercontent.com/ahlandev/allam/main/Boxing.jpghttps://raw.githubusercontent.com/ahlandev/allam/main/Tennis.jpg"
     },
         {
       "cid": 9,
-      "category_name": "UFC ",
-      "category_image": ""
+      "category_name": "UFC",
+      "category_image": "https://raw.githubusercontent.com/ahlandev/allam/main/UFC.jpg"
     },
         {
       "cid": 10,
       "category_name": "WWE Schedule",
-      "category_image": ""
+      "category_image": "https://raw.githubusercontent.com/ahlandev/allam/main/WWE%20Schedule.jpg"
     }
     ],
   "channels": [
