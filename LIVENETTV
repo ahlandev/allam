@@ -49,7 +49,7 @@
       "channel_id": "1",
       "channel_url": "http://server1.bdixsports.live/all/score/livescore.php",
       "channel_name": "Live 1",
-      "channel_type": "1",
+      "channel_type": "2",
       "category_name": "Football",
       "channel_image": "https://raw.githubusercontent.com/ahlandev/allam/main/4668380.png",
       "channel_description": ""
@@ -59,7 +59,7 @@
       "channel_url": "https://www.isportslive8.com/",
       "channel_name": "Live 2",
       "channel_type": "2",
-      "category_name": "Category 1",
+      "category_name": "Football",
       "channel_image": "https://raw.githubusercontent.com/ahlandev/allam/main/4668380.png",
       "channel_description": ""
     }
