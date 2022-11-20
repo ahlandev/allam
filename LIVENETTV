@@ -29,24 +29,35 @@
     "categories": [
     {
       "cid": 1,
-      "category_name": "Category 1",
+      "category_name": "Football",
+      "category_image": ""
+    },
+        {
+      "cid": 1,
+      "category_name": "Live Cricket",
+      "category_image": ""
+    },
+        {
+      "cid": 1,
+      "category_name": "Cricket Schedule",
       "category_image": ""
     }
+  
     ],
   "channels": [
     {
       "channel_id": "1",
-      "channel_url": "https://www.youtube.com/embed/PSn_AuCciTw",
-      "channel_name": "Channel 1",
-      "channel_type": "2",
-      "category_name": "Category 1",
+      "channel_url": "http://server1.bdixsports.live/all/score/livescore.php",
+      "channel_name": "Live 1",
+      "channel_type": "1",
+      "category_name": "Football",
       "channel_image": "https://raw.githubusercontent.com/ahlandev/allam/main/4668380.png",
       "channel_description": ""
     },
     {
       "channel_id": "2",
-      "channel_url": "https://www.youtube.com/embed/3f2MjknN_3w",
-      "channel_name": "Channel 2",
+      "channel_url": "https://www.isportslive8.com/",
+      "channel_name": "Live 2",
       "channel_type": "2",
       "category_name": "Category 1",
       "channel_image": "https://raw.githubusercontent.com/ahlandev/allam/main/4668380.png",
