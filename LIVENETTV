@@ -99,12 +99,12 @@
     },
         {
       "channel_id": "2",
-      "channel_url": "https://photocall.tv/ie9c/l1?ch=rm_en",
-      "channel_name": "RM Live TV",
+      "channel_url": "https://www.youtube.com/embed/5VtrmK81NG4",
+      "channel_name": "beIN Live TV",
       "channel_type": "2",
       "category_name": "Football",
       "channel_image": "https://raw.githubusercontent.com/ahlandev/allam/main/6245101.png",
-      "channel_description": ""
+      "channel_description": "beIN SPORTS الإخبارية"
     },
         {
       "channel_id": "3",
