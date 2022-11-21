@@ -1,104 +1,155 @@
 {
-  "categories": [
+ "categories": [
     {
       "cid": 1,
-      "category_name": "Category 1",
-      "category_image": "https://img.youtube.com/vi/Aay4ZA4Ok3Y/mqdefault.jpg"
+      "category_name": "Football",
+      "category_image": "https://raw.githubusercontent.com/ahlandev/allam/main/Football.jpg"
     },
-    {
+        {
       "cid": 2,
-      "category_name": "Category 2",
-      "category_image": "https://img.youtube.com/vi/D9I8Oc6dduA/maxresdefault.jpg"
+      "category_name": "Cricket",
+      "category_image": "https://raw.githubusercontent.com/ahlandev/allam/main/Cricket.jpg"
     },
-        {
+      {
       "cid": 3,
-      "category_name": "Category 3",
-      "category_image": "https://raw.githubusercontent.com/ahlandev/allam/main/Podcast-promotion.jpg"
+      "category_name": "American Football",
+      "category_image": "https://raw.githubusercontent.com/ahlandev/allam/main/american-football-stadium-american-football-stadium-sport-142156207.jpg"
+    },
+     {
+      "cid": 4,
+      "category_name": "Tennis",
+      "category_image": "https://raw.githubusercontent.com/ahlandev/allam/main/Tennis.jpg"
+    },
+          {
+      "cid": 5,
+      "category_name": "Motor Sports",
+      "category_image": "https://raw.githubusercontent.com/ahlandev/allam/main/Motor%20Sports.jpg"
+    },
+            {
+      "cid": 6,
+      "category_name": "Rugby",
+      "category_image": "https://raw.githubusercontent.com/ahlandev/allam/main/Rugby.jpeg"
+    },
+            {
+      "cid": 7,
+      "category_name": "Basketball",
+      "category_image": "https://raw.githubusercontent.com/ahlandev/allam/main/Basketball.jpg"
+    },
+     {
+      "cid": 8,
+      "category_name": "Boxing",
+      "category_image": "https://raw.githubusercontent.com/ahlandev/allam/main/Boxing.jpg"
     },
         {
-      "cid": 4,
-      "category_name": "Category 4",
-      "category_image": "https://raw.githubusercontent.com/ahlandev/allam/main/Podcast-promotion.jpg"
+      "cid": 9,
+      "category_name": "UFC",
+      "category_image": "https://raw.githubusercontent.com/ahlandev/allam/main/UFC.jpg"
+    },
+        {
+      "cid": 10,
+      "category_name": "WWE Schedule",
+      "category_image": "https://raw.githubusercontent.com/ahlandev/allam/main/WWE%20Schedule.jpg"
     }
-  ],
-  "channels": [
+    ],
+"channels": [
     {
       "channel_id": "1",
-      "channel_name": "Channel 1",
-      "channel_image": "https://raw.githubusercontent.com/ahlandev/allam/main/6245101.png",
-      "channel_url": "https://www.youtube.com/embed/Aay4ZA4Ok3Y",
-      "channel_description": "
-The Zimbabweans boys are knocked out of the competition but they have been superb throughout the tournament. Coming into the Super 12 as a strong unit - beating Ireland and Scotland - they outclassed Pakistan and played a rain-washed game against South Africa.
-
-By all accounts the final game of the Super-12 is the only dead rubber of the league phase of the tournament but this isn't a dead rubber. South Africa's loss in the morning game ensured India's passage into the semi-finals but they haven't yet confirmed a top berth with Pakistan ahead of them on NRR as it stands (provided they complete the win over Bangladesh). A win for Zimbabwe will help them finish in the top-4 of the group thereby confirming an automatic berth in the next tournament in 2024. On form India should win tonight and secure a knockout clash against England at the Adelaide Oval on 10th. A sold-out MCG is ready for what could be another exhilarating contest.
-
-Even as they made it to the knockouts India still have plenty of chinks to iron out. Kohli's masterpiece secured them a last gasp victory over Pakistan they failed to register a big win against Netherlands were blown away by South Africa in pacy Perth and needed rain to break Litton's and Bangladesh's rhythm. They haven't played that perfect match yet and going into the knockouts they need to be at their best. On the other hand it all went downhill shockingly for Zimbabwe. Having escaped with a point against South Africa they stunned Pakistan in a last-ball finish but rather than building on the momentum they let the advantage slip losing to Bangladesh and even Netherlands. But they still have something to play and that'll make them keep coming.
-
-Pakistan become the final team to qualify to the semi-final. What a ride that has been down in the dumps after the first two games they won their remaining three but still needed dollops of luck in terms of other results going their way. The tide turned though after South Africa's shocking collapse this morning - as it stands they're currently at the top of the group on NRR but India can dethrone them with a win tonight at the 'G'.
-
-What to expect: The MCG has hosted only one other game in this tournament following that India-Pakistan classic with as many as three games getting washed out. That is not a concern for tomorrow's game with the forecast keeping rain threat at a bare minimum. The MCG track has offered good bounce and pace for fast bowlers (21 wickets at 7.52 ER) who have enjoyed the added insurance the big square boundaries. The average score batting first in the two games has been 158.
-",
+      "channel_url": "https://crichd.tv/fifa-world-cup-live-stream",
+      "channel_name": "Live Score",
       "channel_type": "2",
-      "category_name": "Category 1"
+      "category_name": "Football",
+      "channel_image": "https://raw.githubusercontent.com/ahlandev/allam/main/score.jpg",
+      "channel_description": ""
     },
     {
       "channel_id": "2",
-      "channel_name": "Channel 2",
-      "channel_image": "https://raw.githubusercontent.com/ahlandev/allam/main/6245101.png",
-      "channel_url": "https://www.youtube.com/watch?v=gQYp1V9l_vM",
-      "channel_description": "ndia will take on Zimbabwe with the aim of securing their T20 World Cup semi-final spot at the Melbourne Cricket Ground (MCG) on Sunday, November 6.
-
-India currently lead the Group 2 table with six points from four matches, whereas Zimbabwe sit in fifth position with three points from four matches.
-
-As many as four T20 World Cup matches were affected owing to rain in Melbourne. However, the weather forecast for the India v Zimbabwe match on Sunday looks promising. The conditions are likely to remain partly cloudy in the beginning and the sky will get clear as the match progresses.
-",
+      "channel_url": "https://www.youtube.com/embed/LEvzGHjB4N4",
+      "channel_name": "Live TV",
       "channel_type": "2",
-      "category_name": "Category 1"
+      "category_name": "Football",
+      "channel_image": "https://raw.githubusercontent.com/ahlandev/allam/main/6245101.png",
+      "channel_description": ""
     },
-    {
+        {
       "channel_id": "3",
-      "channel_name": "Channel 3",
-      "channel_image": "https://raw.githubusercontent.com/ahlandev/allam/main/6245101.png",
-      "channel_url": "https://www.youtube.com/embed/D9I8Oc6dduA",
-      "channel_description": "Post Match T20 World Cup 2022 Semi-Final: India vs England | England won against India by 10 Wickets",
+      "channel_url": "https://crichd.tv/live-cricket-streaming",
+      "channel_name": "Live Score",
       "channel_type": "2",
-      "category_name": "Category 2"
+      "category_name": "Cricket",
+      "channel_image": "https://raw.githubusercontent.com/ahlandev/allam/main/score.jpg",
+      "channel_description": ""
     },
-    {
+        {
       "channel_id": "4",
-      "channel_name": "Channel 4",
-      "channel_image": "https://raw.githubusercontent.com/ahlandev/allam/main/6245101.png",
-      "channel_url": "https://www.youtube.com/embed/QX2R6NKzPvk",
-      "channel_description": "Semi Final | England Vs India Highlights | ICC T20 World Cup 2022 | ENG VS IND#semifinal",
+      "channel_url": "https://crichd.tv/american-football-live-streaming",
+      "channel_name": "Live Score",
       "channel_type": "2",
-      "category_name": "Category 2"
+      "category_name": "American Football",
+      "channel_image": "https://raw.githubusercontent.com/ahlandev/allam/main/score.jpg",
+      "channel_description": ""
     },
-    {
+        {
       "channel_id": "5",
-      "channel_name": "Channel 5",
-      "channel_image": "https://raw.githubusercontent.com/ahlandev/allam/main/6245101.png",
-      "channel_url": "https://www.youtube.com/embed/tSUrIG2SM98",
-      "channel_description": "",
+      "channel_url": "https://crichd.tv/tennis-live-streaming",
+      "channel_name": "Live Score",
       "channel_type": "2",
-      "category_name": "Category 4"
+      "category_name": "Tennis",
+      "channel_image": "https://raw.githubusercontent.com/ahlandev/allam/main/score.jpg",
+      "channel_description": ""
     },
-    {
+        {
       "channel_id": "6",
-      "channel_name": "Channel 6",
-      "channel_image": "https://raw.githubusercontent.com/ahlandev/allam/main/6245101.png",
-      "channel_url": "https://www.youtube.com/embed/3f2MjknN_3w",
-      "channel_description": "",
+      "channel_url": "https://crichd.tv/motor-sports-live-stream",
+      "channel_name": "Live Score",
       "channel_type": "2",
-      "category_name": "Category 4"
+      "category_name": "Motor Sports",
+      "channel_image": "https://raw.githubusercontent.com/ahlandev/allam/main/score.jpg",
+      "channel_description": ""
     },
-    {
+            {
       "channel_id": "7",
-      "channel_name": "Channel 7",
-      "channel_image": "https://raw.githubusercontent.com/ahlandev/allam/main/6245101.png",
-      "channel_url": "https://www.youtube.com/embed/PSn_AuCciTw",
-      "channel_description": "",
+      "channel_url": "https://crichd.tv/rugby-live-stream",
+      "channel_name": "Live Score",
       "channel_type": "2",
-      "category_name": "Category 5"
+      "category_name": "Rugby",
+      "channel_image": "https://raw.githubusercontent.com/ahlandev/allam/main/score.jpg",
+      "channel_description": ""
+    },
+            {
+      "channel_id": "8",
+      "channel_url": "https://crichd.tv/basketball-live-streaming",
+      "channel_name": "Live Score",
+      "channel_type": "2",
+      "category_name": "Basketball",
+      "channel_image": "https://raw.githubusercontent.com/ahlandev/allam/main/score.jpg",
+      "channel_description": ""
+    },
+            {
+      "channel_id": "9",
+      "channel_url": "https://crichd.tv/boxing-live-streaming",
+      "channel_name": "Live Score",
+      "channel_type": "2",
+      "category_name": "Boxing",
+      "channel_image": "https://raw.githubusercontent.com/ahlandev/allam/main/score.jpg",
+      "channel_description": ""
+    },
+            {
+      "channel_id": "10",
+      "channel_url": "https://crichd.tv/ufc-live-streaming",
+      "channel_name": "Live Score",
+      "channel_type": "2",
+      "category_name": "UFC",
+      "channel_image": "https://raw.githubusercontent.com/ahlandev/allam/main/score.jpg",
+      "channel_description": ""
+    },
+                {
+      "channel_id": "10",
+      "channel_url": "https://crichd.tv/wwe-live-stream",
+      "channel_name": "Live Score",
+      "channel_type": "2",
+      "category_name": "WWE Schedule",
+      "channel_image": "https://raw.githubusercontent.com/ahlandev/allam/main/score.jpg",
+      "channel_description": ""
     }
   ],
   "ads": {
