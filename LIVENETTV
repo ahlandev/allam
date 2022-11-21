@@ -98,6 +98,15 @@
       "channel_description": ""
     },
         {
+      "channel_id": "2",
+      "channel_url": "https://photocall.tv/ie9c/l1?ch=rm_en",
+      "channel_name": "RM Live TV",
+      "channel_type": "2",
+      "category_name": "Football",
+      "channel_image": "https://raw.githubusercontent.com/ahlandev/allam/main/6245101.png",
+      "channel_description": ""
+    },
+        {
       "channel_id": "3",
       "channel_url": "https://crichd.tv/live-cricket-streaming",
       "channel_name": "Live Score",
