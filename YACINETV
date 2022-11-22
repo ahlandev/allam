@@ -14,7 +14,7 @@
     "fan_banner_unit_id": "IMG_16_9_APP_INSTALL#173186393601951_299214384332484",
     "fan_interstitial_unit_id": "IMG_16_9_APP_INSTALL#173186393601951_288058788781377",
     "fan_native_unit_id": "VID_HD_9_16_39S_APP_INSTALL#173186393601951_356298065290782",
-    "ironsource_app_key": "85460dcd",
+    "ironsource_app_key": "176c16795",
     "ironsource_banner_id": "DefaultBanner",
     "ironsource_interstitial_id": "DefaultInterstitial",
     "ad_manager_banner_unit_id": "/6499/example/banner",
@@ -29,42 +29,162 @@
     "categories": [
     {
       "cid": 1,
-      "category_name": "Category 1",
-      "category_image": ""
+      "category_name": "Football",
+      "category_image": "https://raw.githubusercontent.com/ahlandev/allam/main/Football.jpg"
     },
-    {
+        {
       "cid": 2,
-      "category_name": "Category 2",
-      "category_image": "https://raw.githubusercontent.com/ahlandev/allam/main/Podcast-promotion.jpg"
+      "category_name": "Cricket",
+      "category_image": "https://raw.githubusercontent.com/ahlandev/allam/main/Cricket.jpg"
     },
-    {
+      {
       "cid": 3,
-      "category_name": "Category 3",
-      "category_image": "https://raw.githubusercontent.com/ahlandev/allam/main/Podcast-promotion.jpg"
+      "category_name": "American Football",
+      "category_image": "https://raw.githubusercontent.com/ahlandev/allam/main/american-football-stadium-american-football-stadium-sport-142156207.jpg"
     },
-    {
+     {
       "cid": 4,
-      "category_name": "Category 4",
-      "category_image": "https://raw.githubusercontent.com/ahlandev/allam/main/Podcast-promotion.jpg"
+      "category_name": "Tennis",
+      "category_image": "https://raw.githubusercontent.com/ahlandev/allam/main/Tennis.jpg"
+    },
+          {
+      "cid": 5,
+      "category_name": "Motor Sports",
+      "category_image": "https://raw.githubusercontent.com/ahlandev/allam/main/Motor%20Sports.jpg"
+    },
+            {
+      "cid": 6,
+      "category_name": "Rugby",
+      "category_image": "https://raw.githubusercontent.com/ahlandev/allam/main/Rugby.jpeg"
+    },
+            {
+      "cid": 7,
+      "category_name": "Basketball",
+      "category_image": "https://raw.githubusercontent.com/ahlandev/allam/main/Basketball.jpg"
+    },
+     {
+      "cid": 8,
+      "category_name": "Boxing",
+      "category_image": "https://raw.githubusercontent.com/ahlandev/allam/main/Boxing.jpg"
+    },
+        {
+      "cid": 9,
+      "category_name": "UFC",
+      "category_image": "https://raw.githubusercontent.com/ahlandev/allam/main/UFC.jpg"
+    },
+        {
+      "cid": 10,
+      "category_name": "WWE Schedule",
+      "category_image": "https://raw.githubusercontent.com/ahlandev/allam/main/WWE%20Schedule.jpg"
     }
     ],
   "channels": [
     {
       "channel_id": "1",
-      "channel_url": "https://www.youtube.com/embed/uZQLZPlAmfU",
-      "channel_name": "Channel 1",
+      "channel_url": "https://crichd.tv/fifa-world-cup-live-stream",
+      "channel_name": "Live Score",
       "channel_type": "2",
-      "category_name": "Category 1",
-      "channel_image": "https://raw.githubusercontent.com/ahlandev/allam/main/4668380.png",
+      "category_name": "Football",
+      "channel_image": "https://raw.githubusercontent.com/ahlandev/allam/main/score.jpg",
       "channel_description": ""
     },
     {
       "channel_id": "2",
-      "channel_url": "https://www.youtube.com/embed/R9-Lg5x6bhU",
-      "channel_name": "Channel 2",
+      "channel_url": "https://www.youtube.com/embed/LEvzGHjB4N4",
+      "channel_name": "Live TV",
       "channel_type": "2",
-      "category_name": "Category 1",
-      "channel_image": "https://raw.githubusercontent.com/ahlandev/allam/main/4668380.png",
+      "category_name": "Football",
+      "channel_image": "https://raw.githubusercontent.com/ahlandev/allam/main/6245101.png",
+      "channel_description": ""
+    },
+        {
+      "channel_id": "2",
+      "channel_url": "https://www.youtube.com/embed/5VtrmK81NG4",
+      "channel_name": "beIN Live TV",
+      "channel_type": "2",
+      "category_name": "Football",
+      "channel_image": "https://raw.githubusercontent.com/ahlandev/allam/main/6245101.png",
+      "channel_description": "beIN SPORTS الإخبارية"
+    },
+        {
+      "channel_id": "3",
+      "channel_url": "https://crichd.tv/live-cricket-streaming",
+      "channel_name": "Live Score",
+      "channel_type": "2",
+      "category_name": "Cricket",
+      "channel_image": "https://raw.githubusercontent.com/ahlandev/allam/main/score.jpg",
+      "channel_description": ""
+    },
+        {
+      "channel_id": "4",
+      "channel_url": "https://crichd.tv/american-football-live-streaming",
+      "channel_name": "Live Score",
+      "channel_type": "2",
+      "category_name": "American Football",
+      "channel_image": "https://raw.githubusercontent.com/ahlandev/allam/main/score.jpg",
+      "channel_description": ""
+    },
+        {
+      "channel_id": "5",
+      "channel_url": "https://crichd.tv/tennis-live-streaming",
+      "channel_name": "Live Score",
+      "channel_type": "2",
+      "category_name": "Tennis",
+      "channel_image": "https://raw.githubusercontent.com/ahlandev/allam/main/score.jpg",
+      "channel_description": ""
+    },
+        {
+      "channel_id": "6",
+      "channel_url": "https://crichd.tv/motor-sports-live-stream",
+      "channel_name": "Live Score",
+      "channel_type": "2",
+      "category_name": "Motor Sports",
+      "channel_image": "https://raw.githubusercontent.com/ahlandev/allam/main/score.jpg",
+      "channel_description": ""
+    },
+            {
+      "channel_id": "7",
+      "channel_url": "https://crichd.tv/rugby-live-stream",
+      "channel_name": "Live Score",
+      "channel_type": "2",
+      "category_name": "Rugby",
+      "channel_image": "https://raw.githubusercontent.com/ahlandev/allam/main/score.jpg",
+      "channel_description": ""
+    },
+            {
+      "channel_id": "8",
+      "channel_url": "https://crichd.tv/basketball-live-streaming",
+      "channel_name": "Live Score",
+      "channel_type": "2",
+      "category_name": "Basketball",
+      "channel_image": "https://raw.githubusercontent.com/ahlandev/allam/main/score.jpg",
+      "channel_description": ""
+    },
+            {
+      "channel_id": "9",
+      "channel_url": "https://crichd.tv/boxing-live-streaming",
+      "channel_name": "Live Score",
+      "channel_type": "2",
+      "category_name": "Boxing",
+      "channel_image": "https://raw.githubusercontent.com/ahlandev/allam/main/score.jpg",
+      "channel_description": ""
+    },
+            {
+      "channel_id": "10",
+      "channel_url": "https://crichd.tv/ufc-live-streaming",
+      "channel_name": "Live Score",
+      "channel_type": "2",
+      "category_name": "UFC",
+      "channel_image": "https://raw.githubusercontent.com/ahlandev/allam/main/score.jpg",
+      "channel_description": ""
+    },
+                {
+      "channel_id": "10",
+      "channel_url": "https://crichd.tv/wwe-live-stream",
+      "channel_name": "Live Score",
+      "channel_type": "2",
+      "category_name": "WWE Schedule",
+      "channel_image": "https://raw.githubusercontent.com/ahlandev/allam/main/score.jpg",
       "channel_description": ""
     }
   ]
